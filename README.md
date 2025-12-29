@@ -1,6 +1,7 @@
+```
 #include <metal_stdlib>
 using namespace metal;
-```
+
 [[stitchable]] half4 radialTicks(
 
     float2 position,
